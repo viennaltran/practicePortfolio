@@ -7,3 +7,15 @@
     text-align: center;
     color: black;
 }
+
+.error-container{
+    position: relative;
+    display:inline;
+}
+
+.error-message{
+    position:absolute;
+    top:100%;
+    left: 0;
+    line-height: 2em;
+}
